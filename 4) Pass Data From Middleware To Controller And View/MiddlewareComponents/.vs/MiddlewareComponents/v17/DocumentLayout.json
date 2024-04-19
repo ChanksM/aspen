@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|c:\\users\\salva\\source\\repos\\middlewarecomponents\\middlewarecomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|solutionrelative:middlewarecomponents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\middlewarecomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|solutionrelative:middlewarecomponents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\middlewarecomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|solutionrelative:middlewarecomponents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\middlewarecomponents\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|solutionrelative:middlewarecomponents\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\middlewarecomponents\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3C524143-2A54-4832-AB65-CB1A4E5919DD}|MiddlewareComponents\\MiddlewareComponents.csproj|solutionrelative:middlewarecomponents\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Models\\Product.cs",
+              "RelativeToolTip": "MiddlewareComponents\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:14:23.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MiddlewareComponents\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T15:13:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MiddlewareComponents\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:11:37.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\html\\index.html",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\html\\index.html",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\html\\index.html",
+              "RelativeToolTip": "MiddlewareComponents\\html\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-04-02T15:40:49.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareComponents\\Program.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareComponents\\MiddlewareComponents\\Program.cs",
+              "RelativeToolTip": "MiddlewareComponents\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T15:14:45.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

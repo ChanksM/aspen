@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\salva\\source\\repos\\middlewaretest\\middlewaretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\salva\\source\\repos\\middlewaretest\\middlewaretest\\models\\tokenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\models\\tokenextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|c:\\users\\salva\\source\\repos\\middlewaretest\\middlewaretest\\models\\tokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716162D1-B191-4CFB-B72B-B34537C1207C}|MiddlewareTest\\MiddlewareTest.csproj|solutionrelative:middlewaretest\\models\\tokenmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Models\\TokenExtensions.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Models\\TokenExtensions.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Models\\TokenExtensions.cs",
+              "RelativeToolTip": "MiddlewareTest\\Models\\TokenExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:07:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Program.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Program.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Program.cs",
+              "RelativeToolTip": "MiddlewareTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:03:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Models\\TokenMiddleware.cs",
+              "RelativeDocumentMoniker": "MiddlewareTest\\Models\\TokenMiddleware.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\MiddlewareTest\\MiddlewareTest\\Models\\TokenMiddleware.cs",
+              "RelativeToolTip": "MiddlewareTest\\Models\\TokenMiddleware.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAA7wBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T14:03:49.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salva\\source\\repos\\SimpleApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1B9A0A-28FA-4E79-9E04-8FA19CF1CD08}|SimpleApp.Tests\\SimpleApp.Tests.csproj|C:\\Users\\salva\\source\\repos\\SimpleApp\\simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1B9A0A-28FA-4E79-9E04-8FA19CF1CD08}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C1B9A0A-28FA-4E79-9E04-8FA19CF1CD08}|SimpleApp.Tests\\SimpleApp.Tests.csproj|c:\\users\\salva\\source\\repos\\simpleapp\\simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C1B9A0A-28FA-4E79-9E04-8FA19CF1CD08}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB69EFB7-0A17-4E1E-909D-840E1A73C574}|SimpleApp\\SimpleApp.csproj|C:\\Users\\salva\\source\\repos\\SimpleApp\\simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB69EFB7-0A17-4E1E-909D-840E1A73C574}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:35:23.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:11:22.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\Comparer.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\SimpleApp\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\Comparer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T15:33:49.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

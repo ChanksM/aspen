@@ -1,0 +1,14 @@
+﻿@model IEnumerable<MiddlewareComponents.Models.Product>
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>@ViewData["MiddlewareMessage"]</p>
+</div>
+
+<h1>პროდუქცია:</h1>
+<ul>
+    @foreach (var product in Model)
+    {
+        <li>@product.Name - @product.Price ₾</li>
+    }
+</ul>

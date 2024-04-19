@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salva\\source\\repos\\WithoutLocalDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73995290-2405-482C-A773-EE3851A1ED96}|WithoutLocalDatabase\\WithoutLocalDatabase.csproj|c:\\users\\salva\\source\\repos\\withoutlocaldatabase\\withoutlocaldatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73995290-2405-482C-A773-EE3851A1ED96}|WithoutLocalDatabase\\WithoutLocalDatabase.csproj|solutionrelative:withoutlocaldatabase\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73995290-2405-482C-A773-EE3851A1ED96}|WithoutLocalDatabase\\WithoutLocalDatabase.csproj|c:\\users\\salva\\source\\repos\\withoutlocaldatabase\\withoutlocaldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73995290-2405-482C-A773-EE3851A1ED96}|WithoutLocalDatabase\\WithoutLocalDatabase.csproj|solutionrelative:withoutlocaldatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 271,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\WithoutLocalDatabase\\WithoutLocalDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WithoutLocalDatabase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\WithoutLocalDatabase\\WithoutLocalDatabase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WithoutLocalDatabase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:46:36.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\salva\\source\\repos\\WithoutLocalDatabase\\WithoutLocalDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "WithoutLocalDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\salva\\source\\repos\\WithoutLocalDatabase\\WithoutLocalDatabase\\Program.cs",
+              "RelativeToolTip": "WithoutLocalDatabase\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:44:43.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
